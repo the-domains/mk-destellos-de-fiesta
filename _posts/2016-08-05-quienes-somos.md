@@ -2,15 +2,15 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-05T07:27:00.705Z'
+dateModified: '2016-08-05T07:27:06.312Z'
 publisher: {}
 author: []
 inFeed: true
 description: ¿Quiénes somos?
 via: {}
-datePublished: '2016-08-05T07:27:04.254Z'
-starred: false
+datePublished: '2016-08-05T07:29:04.783Z'
 sourcePath: _posts/2016-08-05-quienes-somos.md
+starred: false
 _type: Blurb
 
 ---
@@ -25,6 +25,10 @@ Entre las especialidades de _**MaiKa**_ se encuentra la fusión de estilos que h
 Además, disponemos de una [tienda online][0] donde podrás encontrar ofertas especiales desde la comodidad de tu casa. Si prefieres venir a visitarnos en persona, puedes encontrar los detalles en la sección de [contacto][1], opción ideal si estás interesado/a en alguno de los vestidos o complementos ofertados para alquiler.
 
 Y si quieres estar a la última con nuestras novedades puedes seguir nuestra página en Facebook o Twitter, aquí tienes los enlaces:
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30d5f86b-04e1-4590-9c94-cd56a7d68400.gif" /></article>
+
+
 
 [0]: http://www.destellosdefiesta.com/tienda-online/ "Ir a tienda online"
 [1]: http://www.destellosdefiesta.com/www.destellosdefiesta.com/contacto "Contacto"
