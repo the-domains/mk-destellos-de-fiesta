@@ -1,7 +1,24 @@
 name: 'MK: destellos de fiesta'
+favicon: null
 layout_spectrum: 0.9464043771672852
 typography_spectrum: 0.6442045146080236
+title: 'Venta, alquiler y transformación de trajes regionales y fiesta'
+author:
+  name: Ruben
+  url: ''
+  email: ruben.mkddf@gmail.com
+content_rating:
+  adult: false
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
+  image: null
   type: ''
   appId: mkdestellosdefiesta
 color:
@@ -12,13 +29,7 @@ color:
     - '#A7C520'
     - '#493F0B'
   brandStrength: 0.3426064591818707
-  lightness: 0.9609378039589295
-  saturation: 0.19500487546406675
-  rhythmicContrast: 0.9696146229266268
-title: 'Venta, alquiler y transformación de trajes regionales y fiesta'
-author:
-  name: Ruben
-  url: ''
-  email: ruben.mkddf@gmail.com
-content_rating:
-  adult: false
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
