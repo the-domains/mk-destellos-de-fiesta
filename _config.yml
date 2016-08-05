@@ -1,0 +1,14 @@
+name: 'MK: destellos de fiesta'
+layout_spectrum: 0.9464043771672852
+typography_spectrum: 0.6442045146080236
+color:
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.3426064591818707
+  lightness: 0.9609378039589295
+  saturation: 0.19500487546406675
+  rhythmicContrast: 0.9696146229266268
